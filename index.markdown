@@ -5,7 +5,7 @@ title: Home
 section: Home
 ---
 
-<img class='inset right' src='/files/images/wish.png' title='Mr.Wi$h' width='120px' />
+<img class='inset right' src='/files/images/wish_index.png' title='Mr.Wi$h' width='120px' />
 
 欢迎
 =======
