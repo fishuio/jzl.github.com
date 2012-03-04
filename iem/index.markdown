@@ -8,8 +8,6 @@ section: Past
 工作经历
 ========
 
-This is the complete archive of posts from _[inductio ex machina](/iem)_
-in reverse chronological order.
 
 {% for post in site.categories.iem %}
 <div class="section list">
