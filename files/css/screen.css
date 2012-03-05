@@ -96,20 +96,6 @@ sup { line-height: 1ex; }
 }
 */
 
-/* @group FancyFirst */
-.emphnext + p:first-letter, p.emphfirst:first-letter {
-	font-size: 48px;
-	padding: 0 0.15em 0 0;
-	margin:  0.05em 0 -0.15em 0;
-	line-height: 1em;
-	float: left;
-}
-
-.emphnext + p:first-line, p.emphfirst:first-line {
-	font-variant: small-caps;
-	font-size: larger;
-}
-/* @end */
 
 .right { float: right; clear: left; }
 .left { float: left; clear: right; }
@@ -324,67 +310,6 @@ p.excerpt { margin: 0; }
 	position: absolute;
 	right: 0;
 	top: 1.5em;
-}
-/* @end */
-
-
-/* @group Disqus */
-#disqus_thread {
-	margin-top: 2.93em;
-}
-.dsq-comment-body {
-	text-align: justify;
-	line-height: 1.29em;
-}
-.dsq-comment {
-	padding-top: 0 !important;
-	margin-top: 1.7em !important;
-	margin-bottom: 1.9em !important;
-	background-image: none !important;
-}
-.dsq-comment-message {
-	line-height: 1.714em;
-}
-.dsq-comment-header {
-	background-color: whitesmoke !important;
-	border-top: 1px solid silver !important;
-	border-bottom: 1px solid silver !important;
-	margin-bottom: 1.15em !important;
-}
-.dsq-header-time { margin-left: 0 !important; }
-.dsq-comment-header cite { 
-	font-variant: small-caps;
-	margin-left: 0 !important;
-}
-.dsq-comment-footer { 
-	font-size: 75% !important; 
-	margin-top: 1px !important;
-}
-#dsq-options {
-	background: whitesmoke;
-	border-bottom: 1px solid silver;
-	border-top: 1px solid silver;
-	padding: 0 0 0 1em;
-}
-#dsq-comments-count {
-	margin-top: 0.8em !important;
-	margin-bottom: 1.2em !important;
-}
-#dsq-extra-links { padding-left: 0 !important; }
-#dsq-extra-links li img { display: none; }
-#dsq-options-toggle { color: silver; font-size: 75% !important;}
-#dsq-add-new-comment {
-	margin-top: 1.19em !important;
-	margin-bottom: 1.25em !important;
-}
-/* The following position, width and height ensure
- * that none of the body in the iframe shows through.
- */
-form#comment {
-	position: absolute;
-	height: 100%;
-	width: 100%;
-	background-color: white !important;
 }
 /* @end */
 
