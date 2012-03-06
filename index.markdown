@@ -33,7 +33,7 @@ section: Home
 籍贯：	内蒙古包头市
 =--
 +-- {.section}
-现居住地：	  天津市
+现居：	  天津市
 
 =--
 
@@ -71,10 +71,10 @@ section: Home
 =--
 
 +-- {.section}
-[Email](#)
+Email
 ====================================
 
-huanghunjzl@163.com
+<a href="mailto:huanghunjzl@163.com">huanghunjzl@163.com</a>
 
 =--
 
