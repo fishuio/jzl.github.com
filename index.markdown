@@ -15,7 +15,10 @@ section: Home
 +--	{.section}
 个人信息
 ========
-昵称：		 Mr.Wi$h
+姓名：		 焦泽龙
+=--
++-- {.section}
+昵称：		Mr.Wi$h
 =--
 +-- {.section}
 性别：			  男
