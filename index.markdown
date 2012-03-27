@@ -77,7 +77,7 @@ section: Home
 Email
 ====================================
 
-<a href="mailto:huanghunjzl@163.com">huanghunjzl@163.com</a>
+<a href="mailto:huanghunjzl@163.com"><img src="./files/images/mail.gif" title='Mail to me' /></a>
 
 =--
 
